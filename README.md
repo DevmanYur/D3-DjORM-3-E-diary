@@ -33,8 +33,8 @@
 
 - Скачайте код
 - Установите зависимости командой `pip install -r requirements.txt`
-- Создайте БД командой `python3 manage.py migrate`
-- Запустите сервер командой `python3 manage.py runserver`
+- Создайте БД командой `python manage.py migrate`
+- Запустите сервер командой `python manage.py runserver`
 
 ## Переменные окружения
 
